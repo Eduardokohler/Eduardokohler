@@ -45,6 +45,50 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 💼 Experiência Profissional
+
+### 💻 Desenvolvedor
+  📍 Havan
+  
+- 🔧 Desenvolvimento de aplicações e APIs
+- 🗄️ Modelagem e manipulação de bancos de dados (SQL)
+- ⚙️ Criação de scripts e automações
+- 🔄 Versionamento de código com Git
+
+### 🧠 Habilidades Desenvolvidas
+- Pensamento lógico e resolução de problemas
+- Organização de código e boas práticas
+- Trabalho com dados e estruturas
+- Aprendizado contínuo e autonomia
+
+## 🎓 Formação & Cursos
+
+### 🎓 Graduação
+- 📚 **Sistemas de Informação**  
+  🏫 UNIFEBE (em andamento)
+
+- 🎓 **Técnico em Informática**  
+  🏫 Instituto Federal Catarinense
+  
+---
+
+### 🚀 Projetos de Extensão
+- ♻️ **ReuseTech**  
+  Projeto voltado à montagem e doação de computadores com peças recicladas
+
+  🔧 Atuação: montagem, manutenção e configuração de máquinas
+  
+- 🚗 **Baja**
+  Projeto que tem como foco contruir um carro para competição entre faculdades
+  
+  ⚡Atuação: Faço parte da equipe de elétrica
+  
+---
+
+### 📖 Atualmente Estudando
+- 📊 Banco de Dados (PostgrSQL e Microsoft SQL Server)
+- ⚙️ Back-end (.NET, Python e JAVA)
+- 🐳 Docker, Server e cloud
 
 ---
 
