@@ -1,10 +1,5 @@
 # Dev Full-Stack
-
-Automações
-
-Sites
-
-APIs
+## *Automações, APIs e sites*
 
 ## 🌐 Redes Sociais
 
