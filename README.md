@@ -8,7 +8,7 @@ APIs
 
 ## 🌐 Redes Sociais
 
- [![](https://img.shields.io/badge/GitHub-EduardoKohler-181717?style=for-the-badge&logo=github)](https://github.com/herbertcarnaubadesouza)[![](https://img.shields.io/badge/Instagram-@Edukohler171-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://instagram.com/Edukohler171)
+ [![](https://img.shields.io/badge/GitHub-EduardoKohler-181717?style=for-the-badge&logo=github)](https://github.com/Eduardokohler)[![](https://img.shields.io/badge/Instagram-@Edukohler171-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://instagram.com/Edukohler171)
 
 ---
 
