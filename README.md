@@ -94,9 +94,6 @@
 
 ## Filosofia
 
-> *“Alan turing 
-> o pai da putaria.”*
-
 > *“A IA vai roubar meu emprego”*
 
 > *“Engenheiro de prompt e Viber coder profissional (NíVEL SÊNIOR)”*
